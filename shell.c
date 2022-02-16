@@ -1,6 +1,4 @@
 /*
- Exercise 4
-An expansion for the last 3 exercises with the addition of supporting the signals of ^z and fg. 
 
  Authored by Shiran Glasser
  208608174
